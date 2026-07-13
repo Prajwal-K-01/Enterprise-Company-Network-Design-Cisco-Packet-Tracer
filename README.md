@@ -183,5 +183,5 @@ Aspiring Cloud & DevOps Engineer
 
 ☁️ AWS | Networking | Linux | Git | Python
 💼 Building Real-World Cloud & Enterprise Networking Projects
-🔗 GitHub: (Add your GitHub profile link)
-🔗 LinkedIn: (Add your LinkedIn profile link)
+🔗 GitHub: (https://github.com/Prajwal-K-01)
+🔗 LinkedIn: (www.linkedin.com/in/prajwal-k-220pp)
